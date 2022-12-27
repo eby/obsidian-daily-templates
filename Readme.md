@@ -5,10 +5,10 @@ This is a repo for daily, weekly, monthly, quarterly, and yearly notes for Obsid
 Jump To: [Overview](#overview) | [Daily Notes](#daily-notes)
 
 ## Overview
-Here are some adjustments to make so that your notes look similar to the screenshots:
-Theme: [AnuPpuccin: Sanitized theme for Obsidian](https://github.com/AnubisNekhet/AnuPpuccin)
-Color Scheme: Sandy Beaches (Light)
-H1: Abril Fatface
+Here are some adjustments to make so that your notes look similar to the screenshots:  
+Theme: [AnuPpuccin: Sanitized theme for Obsidian](https://github.com/AnubisNekhet/AnuPpuccin)  
+Color Scheme: Sandy Beaches (Light)  
+H1: Abril Fatface  
 Remaining Headers and body font: Montserrat
 
 ## Daily Notes
